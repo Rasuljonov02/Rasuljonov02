@@ -50,4 +50,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasuljonov02&" alt="rasuljonov02" /></p>
-
+<p><img align="center" src="
+https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true" alt="rasuljonov02" /></p>
