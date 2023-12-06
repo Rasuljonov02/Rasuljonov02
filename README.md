@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hello, I am Rasuljanov Muhammad, I was born in 2002
 
 * 🌍  I'm based in uzb
-* ✉️  You can contact me at [muhammadjonrasuljonov2002@gmail.com]  (mailto:muhammadjonrasuljonov2002@gmail.com)
+* ✉️  You can contact me at  (mailto:muhammadjonrasuljonov2002@gmail.com)
 * 🧠  I'm learning m
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad_4202&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad_4202" /> </p>
@@ -17,8 +17,7 @@ Hello, I am Rasuljanov Muhammad, I was born in 2002
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rasuljonov02&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rasuljonov02&theme=2077)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rasuljonov02&theme=2077)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rasuljonov02&theme=2077&utcOffset=8)
   
 
