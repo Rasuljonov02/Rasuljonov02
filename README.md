@@ -9,8 +9,6 @@ Hello, I am Rasuljanov Muhammad, I was born in 2002
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad_4202&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad_4202" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?Muhammad_4202=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rasuljonov02&theme=2077)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rasuljonov02&theme=2077)
