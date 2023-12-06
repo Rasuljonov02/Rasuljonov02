@@ -15,13 +15,13 @@ Markdown Usage
 
 Markdown Usage
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rasuljonov02&theme=2077)
-<div>
+
   Markdown Usage
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rasuljonov02&theme=2077)
 Markdown Usage
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rasuljonov02&theme=2077&utcOffset=8)
   
-</div>
+
 
 
 <a href="https://www.github.com/Rasuljonov02" target="_blank" rel="noreferrer"><img
