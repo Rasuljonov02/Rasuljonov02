@@ -11,7 +11,14 @@ Hello, I am Rasuljanov Muhammad, I was born in 2002
 Markdown Usage
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rasuljonov02&theme=2077)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rasuljonov02&theme=2077)
 
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rasuljonov02&theme=2077)
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rasuljonov02&theme=2077)
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rasuljonov02&theme=2077&utcOffset=8)
 
 
 
