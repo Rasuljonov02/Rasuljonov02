@@ -13,9 +13,8 @@ Hello, I am Rasuljanov Muhammad, I was born in 2002
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rasuljonov02&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rasuljonov02&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rasuljonov02&theme=2077)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rasuljonov02&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rasuljonov02&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rasuljonov02&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rasuljonov02&theme=2077)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rasuljonov02&theme=2077&utcOffset=8)
   
 
 
@@ -40,13 +39,7 @@ src="https://img.shields.io/twitter/follow/Muhammad_4202?logo=twitter&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Rasuljonov02"><img src="https://github-readme-stats.vercel.app/api?username=Rasuljonov02&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Rasuljonov02's GitHub stats" /></a>
-
-<a href="http://www.github.com/Rasuljonov02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasuljonov02&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Rasuljonov02"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rasuljonov02&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Rasuljonov02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasuljonov02&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Rasuljonov02"><img src="https://github-readme-stats.vercel.app/api?username=Rasuljonov02&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Rasuljonov02's GitHub stats" /></a>   <a href="http://www.github.com/Rasuljonov02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasuljonov02&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  <a href="http://www.github.com/Rasuljonov02"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rasuljonov02&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>   <a href="https://github.com/Rasuljonov02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasuljonov02&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
