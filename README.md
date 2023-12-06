@@ -21,6 +21,33 @@
 <p><img align="chapga" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasuljonov02&show_icons=true&locale=en&layout=compact" alt="rasuljonov02" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rasuljonov02&show_icons=true&locale=en" alt="rasuljonov02" /></p>
+### Hi there 👋, my name is Muhammad
+#### Hello and welcome to my GitHub bio
+![Hello and welcome to my GitHub bio](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/48063d0b-c26f-4a9c-92bb-270ce167419b.pdf)
+
+Hello, I am RAsuljanov Muhammad, I was born in 2002
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rasuljonov02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Muhammad_2002/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muhammad_rasuljonov02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/muhammad_rasuljonov02/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Muhammad_4202)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rasuljonov02)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasuljonov02)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasuljonov02&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Rasuljonov02/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Rasuljonov02)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rasuljonov02)  
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasuljonov02&" alt="rasuljonov02" /></p>
-https://github-profile-trophy.vercel.app
+
